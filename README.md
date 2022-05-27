@@ -1,7 +1,7 @@
 # RndTechConf
 Репозиторий с полезной информацией о Ростовской конференции RndTechConf.
 
-- [Для любимых партнеров RndTechConf 2022](Partners/README.md)
+- [Для любимых партнеров RndTechConf 2023](Partners/README.md)
     - [Рекомендации по мерчу](Partners/Merch/README.md)
     - [Подготовка активностей на стенде](Partners/Activities/README.md)
     - [ТЗ по застройке стенда](Partners/Constructions/README.md)
